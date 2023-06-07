@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+}
+
+th {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin: 50px;
+}
+
+.number {
+    width: 60px;
+    text-align: center;
+}
+
+.secondPage {
+    text-align: center;
+}
